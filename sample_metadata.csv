@@ -1,0 +1,3 @@
+source_table_name,raw_table_name,key
+source_table_1,raw_table_1,id
+source_table_2,raw_table_2,id,name
